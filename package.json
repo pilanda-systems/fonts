@@ -1,0 +1,11 @@
+{
+  "name": "pilanda-fonts",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "scripts": {
+    "catalog": "node scripts/catalog.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
