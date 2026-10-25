@@ -1,0 +1,38 @@
+{
+  "family": "Liberation Mono",
+  "kind": "mono",
+  "license": "OFL-1.1",
+  "licenseFile": "LICENSE",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc.",
+  "source": {
+    "url": "https://github.com/liberationfonts/liberation-fonts/releases/tag/2.1.5",
+    "version": "2.1.5 (liberation-fonts-ttf-2.1.5.tar.gz, sha256 7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0)"
+  },
+  "metricCompatible": [
+    "Courier New",
+    "Courier",
+    "Cousine"
+  ],
+  "files": [
+    {
+      "file": "LiberationMono-Regular.ttf",
+      "weight": 400,
+      "italic": false
+    },
+    {
+      "file": "LiberationMono-Bold.ttf",
+      "weight": 700,
+      "italic": false
+    },
+    {
+      "file": "LiberationMono-Italic.ttf",
+      "weight": 400,
+      "italic": true
+    },
+    {
+      "file": "LiberationMono-BoldItalic.ttf",
+      "weight": 700,
+      "italic": true
+    }
+  ]
+}
