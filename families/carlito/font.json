@@ -1,0 +1,36 @@
+{
+  "family": "Carlito",
+  "kind": "sans",
+  "license": "OFL-1.1",
+  "licenseFile": "OFL.txt",
+  "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+  "source": {
+    "url": "https://github.com/google/fonts/tree/e7db6ca603fd4862010383ff17ffd6cc4ffac1c0/ofl/carlito",
+    "version": "google/fonts e7db6ca603fd4862010383ff17ffd6cc4ffac1c0"
+  },
+  "metricCompatible": [
+    "Calibri"
+  ],
+  "files": [
+    {
+      "file": "Carlito-Regular.ttf",
+      "weight": 400,
+      "italic": false
+    },
+    {
+      "file": "Carlito-Bold.ttf",
+      "weight": 700,
+      "italic": false
+    },
+    {
+      "file": "Carlito-Italic.ttf",
+      "weight": 400,
+      "italic": true
+    },
+    {
+      "file": "Carlito-BoldItalic.ttf",
+      "weight": 700,
+      "italic": true
+    }
+  ]
+}

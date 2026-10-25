@@ -1,0 +1,36 @@
+{
+  "family": "Caladea",
+  "kind": "serif",
+  "license": "OFL-1.1",
+  "licenseFile": "OFL.txt",
+  "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+  "source": {
+    "url": "https://github.com/google/fonts/tree/e7db6ca603fd4862010383ff17ffd6cc4ffac1c0/ofl/caladea",
+    "version": "google/fonts e7db6ca603fd4862010383ff17ffd6cc4ffac1c0"
+  },
+  "metricCompatible": [
+    "Cambria"
+  ],
+  "files": [
+    {
+      "file": "Caladea-Regular.ttf",
+      "weight": 400,
+      "italic": false
+    },
+    {
+      "file": "Caladea-Bold.ttf",
+      "weight": 700,
+      "italic": false
+    },
+    {
+      "file": "Caladea-Italic.ttf",
+      "weight": 400,
+      "italic": true
+    },
+    {
+      "file": "Caladea-BoldItalic.ttf",
+      "weight": 700,
+      "italic": true
+    }
+  ]
+}
